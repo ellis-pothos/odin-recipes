@@ -1,2 +1,2 @@
 # odin-recipes
-Note to self to add note on what this project is and what skills it reflects.
+This project demonstrates my understanding and application of basic html code and introductory skills using Git and GitHub.
